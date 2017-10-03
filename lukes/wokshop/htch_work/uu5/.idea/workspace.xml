@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32cc75e2-1a93-423b-b324-4949021f4503" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="client.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/vuc/client.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="68" column="6" lean-forward="false" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/vuc/about.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stk-detail.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/vuc/stk-detail.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="732">
+              <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="calls.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/calls.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="650">
+              <caret line="52" column="23" lean-forward="false" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tractor-list.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/vuc/tractor-list.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4419">
+              <caret line="193" column="2" lean-forward="false" selection-start-line="193" selection-start-column="2" selection-end-line="193" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="for-rent-list.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/vuc/for-rent-list.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="117" column="3" lean-forward="true" selection-start-line="117" selection-start-column="3" selection-end-line="123" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/vuc/order.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="76" column="58" lean-forward="false" selection-start-line="76" selection-start-column="58" selection-end-line="76" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/header.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="60" column="35" lean-forward="false" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tractor-detail.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/vuc/tractor-detail.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="482">
+              <caret line="63" column="85" lean-forward="false" selection-start-line="63" selection-start-column="85" selection-end-line="63" selection-end-column="85" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list-stk.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/vuc/list-stk.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1800">
+              <caret line="82" column="94" lean-forward="false" selection-start-line="82" selection-start-column="94" selection-end-line="82" selection-end-column="94" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>import React from \&quot;react\&quot;\;\nimport \* as UU5 from \&quot;uu5g04\&quot;\;\nimport Cfg from \&quot;\.\.\/core\/_config\.js\&quot;\;\n\nimport Calls from \&quot;calls\&quot;\n\nexport default React\.createClass\(\{\n\n  \/\/\@\@viewOn\:mixins\n  mixins\:\[\n    UU5\.Common\.BaseMixin\,\n    UU5\.Common\.ElementaryMixin\,\n    UU5\.Common\.RouteMixin\,\n    UU5\.Common\.LoadMixin\n  \]\,\n  \/\/\@\@viewOff\:mixins\n\n  \/\/\@\@viewOn\:statics\n  statics\:\{\n    tagName\:Cfg\.APP \+ \&quot;\.TractorList\&quot;\,\n    classNames\:\{\n      main\:Cfg\.CSS \+ \&quot;\-tractor\-list\&quot;\n    \}\,\n    calls\:\{\n      onLoad\:\&quot;cars\&quot;\,\n      create\:\&quot;addCar\&quot;\,\n      find\:\&quot;findCars\&quot;\n    \}\n  \}\,\n  \/\/\@\@viewOff\:statics\n\n  \/\/\@\@viewOn\:standardComponentLifeCycle\n  getInitialState\(\)\{\n    return \{\n      showForm\:false\,\n      filtered\:false\n    \}\n  \}\,\n\n  componentWillMount\(\)\{\n    this\.setCalls\(Calls\)\n  \}\,\n  \/\/\@\@viewOff\:standardComponentLifeCycle\n\n  \/\/\@\@viewOn\:componentSpecificHelpers\n  _getNewForm\(\)\{\n    if\(\!this\.state\.showForm\)\{\n      return null\;\n    \}\n\n    return \(\n      \&lt;UU5\.Bricks\.Panel header\=\&quot;Přidání nového vozidla\&quot; alwaysExpanded\=\{true\} disableHeaderClick\=\{true\}\&gt;\n        \&lt;UU5\.Forms\.BasicForm ref_\=\{this\._handleNewFormReference\}\&gt;\n          \&lt;UU5\.Forms\.Text name\=\&quot;type\&quot; value\=\&quot;RECLAIMER\&quot; label\=\&quot;Typ\&quot;\/\&gt;\n          \&lt;UU5\.Forms\.Text name\=\&quot;vin\&quot; value\=\&quot;AHTBB3QD001726541\&quot; label\=\&quot;VIN\&quot;\/\&gt;\n          \&lt;UU5\.Forms\.Text name\=\&quot;date\&quot; value\=\&quot;1487812893\&quot; label\=\&quot;Datum\&quot;\/\&gt;\n          \&lt;UU5\.Forms\.Text name\=\&quot;price\&quot; value\=\&quot;1100000\&quot; label\=\&quot;Cena\&quot;\/\&gt;\n        \&lt;\/UU5\.Forms\.BasicForm\&gt;\n\n        \&lt;UU5\.Bricks\.Button colorSchema\=\&quot;warning\&quot; onClick\=\{this\._handleCancelClick\}\&gt;Zavřít\&lt;\/UU5\.Bricks\.Button\&gt;\n        \&lt;UU5\.Bricks\.Button colorSchema\=\&quot;primary\&quot; onClick\=\{this\._handleCreateNewCar\}\&gt;Uložit\&lt;\/UU5\.Bricks\.Button\&gt;\n      \&lt;\/UU5\.Bricks\.Panel\&gt;\n    \)\n  \}\,\n\n\n  _getFilterForm\(\)\{\n    return \(\n      \&lt;UU5\.Forms\.BasicForm ref_\=\{this\._handleFilterFormReference\}\&gt;\n        \&lt;UU5\.Bricks\.Row\&gt;\n          \&lt;UU5\.Bricks\.Column colWidth\=\&quot;lg\-3\&quot;\&gt;\n            \&lt;UU5\.Forms\.Text name\=\&quot;acquiredFrom\&quot; label\=\&quot;Od\&quot; controlled\=\{false\} value\=\&quot;2007\-08\-21\&quot; \/\&gt;\n          \&lt;\/UU5\.Bricks\.Column\&gt;\n          \&lt;UU5\.Bricks\.Column colWidth\=\&quot;lg\-3\&quot;\&gt;\n            \&lt;UU5\.Forms\.Text name\=\&quot;acquiredTo\&quot; label\=\&quot;Do\&quot; controlled\=\{false\} value\=\&quot;2007\-08\-23\&quot;\/\&gt;\n          \&lt;\/UU5\.Bricks\.Column\&gt;\n\n\n\n          \&lt;UU5\.Bricks\.Column colWidth\=\&quot;lg\-3\&quot;\&gt;\n            \&lt;UU5\.Forms\.Text name\=\&quot;vin\&quot; label\=\&quot;VIN\&quot; controlled\=\{false\} value\=\&quot;\&quot;\/\&gt;\n          \&lt;\/UU5\.Bricks\.Column\&gt;\n\n          \&lt;UU5\.Bricks\.Column\&gt;\n            \&lt;UU5\.Forms\.Select name\=\&quot;type\&quot; label\=\&quot;Typ\&quot;\&gt;\n              \&lt;UU5\.Forms\.Select\.Option content\=\&quot;Bez Typu\&quot; value\=\&quot;\&quot;\/\&gt;\n              \&lt;UU5\.Forms\.Select\.Option value\=\&quot;RECLAIMER\&quot;\/\&gt;\n            \&lt;\/UU5\.Forms\.Select\&gt;\n          \&lt;\/UU5\.Bricks\.Column\&gt;\n          \&lt;UU5\.Bricks\.Column colWidth\=\&quot;lg\-6\&quot;\&gt;\n            \&lt;UU5\.Bricks\.Button content\=\&quot;Filtruj\&quot; onClick\=\{this\._handleFilterClick\}\/\&gt;\n            \&lt;UU5\.Bricks\.Button\n              colorSchema\=\&quot;warning\&quot;\n              disabled\=\{\!this\.state\.filtered\}\n              content\=\&quot;Zruš filtr\&quot;\n              onClick\=\{this\._handleCancelFilter\}\n            \/\&gt;\n          \&lt;\/UU5\.Bricks\.Column\&gt;\n        \&lt;\/UU5\.Bricks\.Row\&gt;\n      \&lt;\/UU5\.Forms\.BasicForm\&gt;\n    \)\;\n  \}\,\n\n  _getPanelHeader\(\)\{\n    let button \= \!this\.state\.showForm \&amp;\&amp; \(\n      \&lt;UU5\.Bricks\.Button size\=\&quot;xs\&quot; onClick\=\{this\._handleShowFormClick\} className\=\&quot;pull\-right\&quot;\&gt;Přidat\&lt;\/UU5\.Bricks\.Button\&gt;\n    \)\n\n    return \&lt;UU5\.Bricks\.Div\&gt;Seznam vozidel \{button\}\&lt;\/UU5\.Bricks\.Div\&gt;\n  \}\,\n\n  _handleNewFormReference\(form\)\{\n    this\._addForm \= form\;\n  \}\,\n\n  _handleFilterFormReference\(form\)\{\n    this\._filterForm \= form\n  \}\,\n\n  _handleCreateNewCar\(\)\{\n\n    let formData \= this\._addForm\.getValues\(\)\;\n\n    \/\/ hide form and show loading\n    this\.setState\(\{\n      loadFeedback\:\&quot;loading\&quot;\,\n      showForm\:false\n    \}\, \(\) \=\&gt;\{\n      this\.getCall\(\&quot;create\&quot;\)\(\{\n        data\:formData\,\n        done\:\(\) \=\&gt;\{\n          this\.reload\(\)\n        \}\,\n        fail\:\(response\) \=\&gt; console\.error\(response\)\n      \}\)\n    \}\)\n\n    \/\/ clear up reference\n    this\._addForm \= undefined\n  \}\,\n\n  _handleCancelFilter\(\)\{\n    this\.setState\(\{\n      loadFeedback\:\&quot;loading\&quot;\,\n      filtered\:false\n    \}\, \(\) \=\&gt; this\.reload\(\)\)\n  \}\,\n\n  _handleShowFormClick\(\)\{\n    this\.setState\(\{showForm\:true\}\)\n  \}\,\n\n  _handleCancelClick\(\)\{\n    this\.setState\(\{showForm\:false\}\)\n  \}\,\n\n  _handleFilterClick\(\)\{\n    this\.setState\(\{\n      loadFeedback\:\&quot;loading\&quot;\n    \}\, \(\) \=\&gt;\{\n      this\.getCall\(\&quot;find\&quot;\)\(\{\n        data\:this\._filterForm\.getValues\(\)\,\n        done\:\(data\) \=\&gt;\{\n          this\.setState\(\{\n            dtoOut\:data\,\n            loadFeedback\:\&quot;ready\&quot;\,\n            filtered\:true\n          \}\)\n        \}\,\n        fail\:\(response\) \=\&gt; console\.error\(response\)\n      \}\)\n    \}\)\n  \}\,\n\n  _handleLoadedTractors\(tractors\)\{\n    if\(\!tractors \|\| tractors\.length \=\=\= 0\)\{\n      return \&lt;UU5\.Bricks\.P\&gt;Není tu žádný traktor\&lt;\/UU5\.Bricks\.P\&gt;\n    \}\n\n    let lines \= tractors\.map\(\(tractor\) \=\&gt; \(\n      \&lt;UU5\.Bricks\.Table\.Tr key\=\{tractor\.id\}\&gt;\n        \&lt;UU5\.Bricks\.Table\.Td\&gt;\{tractor\.type\}\&lt;\/UU5\.Bricks\.Table\.Td\&gt;\n        \&lt;UU5\.Bricks\.Table\.Td\&gt;\{tractor\.vin\}\&lt;\/UU5\.Bricks\.Table\.Td\&gt;\n        \&lt;UU5\.Bricks\.Table\.Td\&gt;\n          \&lt;UU5\.Bricks\.DateTime format\=\&quot;dd\.mm\.Y\&quot; value\=\{new Date\(tractor\.dateOfAcquisition\)  \} \/\&gt;\&lt;\/UU5\.Bricks\.Table\.Td\&gt;\n        \&lt;UU5\.Bricks\.Table\.Td\&gt;\{tractor\.carState\}\&lt;\/UU5\.Bricks\.Table\.Td\&gt;\n        \&lt;UU5\.Bricks\.Table\.Td\&gt;Zde bude client\&lt;\/UU5\.Bricks\.Table\.Td\&gt;\n      \&lt;\/UU5\.Bricks\.Table\.Tr\&gt;\n    \)\)\;\n\n\n\n\n    return \(\n      \&lt;UU5\.Bricks\.Table striped\&gt;\n        \&lt;UU5\.Bricks\.Table\.THead\&gt;\n          \&lt;UU5\.Bricks\.Table\.Tr\&gt;\n            \&lt;UU5\.Bricks\.Table\.Th\&gt;type\&lt;\/UU5\.Bricks\.Table\.Th\&gt;\n            \&lt;UU5\.Bricks\.Table\.Th\&gt;vin\&lt;\/UU5\.Bricks\.Table\.Th\&gt;\n            \&lt;UU5\.Bricks\.Table\.Th\&gt;datum pořízení\&lt;\/UU5\.Bricks\.Table\.Th\&gt;\n            \&lt;UU5\.Bricks\.Table\.Th\&gt;state\&lt;\/UU5\.Bricks\.Table\.Th\&gt;\n          \&lt;\/UU5\.Bricks\.Table\.Tr\&gt;\n        \&lt;\/UU5\.Bricks\.Table\.THead\&gt;\n        \&lt;UU5\.Bricks\.Table\.TBody\&gt;\n          \{lines\}\n        \&lt;\/UU5\.Bricks\.Table\.TBody\&gt;\n      \&lt;\/UU5\.Bricks\.Table\&gt;\n    \)\n  \}\,\n  \/\/\@\@viewOff\:componentSpecificHelpers\n\n  \/\/\@\@viewOn\:render\n  render\(\)\{\n    return \(\n      \&lt;UU5\.Bricks\.Div\&gt;\n        \&lt;UU5\.Bricks\.Header level\=\{2\}\&gt;Seznam traktorů \(vozidel\)\&lt;\/UU5\.Bricks\.Header\&gt;\n\n        \{this\._getNewForm\(\)\}\n        \&lt;UU5\.Bricks\.Panel header\=\{this\._getPanelHeader\(\)\} alwaysExpanded\=\{true\} disableHeaderClick\=\{true\}\&gt;\n          \{this\._getFilterForm\(\)\}\n\n          \{this\.getLoadFeedbackChildren\(this\._handleLoadedTractors\)\}\n        \&lt;\/UU5\.Bricks\.Panel\&gt;\n      \&lt;\/UU5\.Bricks\.Div\&gt;\n    \)\;\n  \}\n  \/\/\@\@viewOff\:render\n\}\)\;\n</find>
+      <find>Seznam</find>
+      <find>sezn</find>
+      <find>tractors</find>
+      <find>fil</find>
+      <find>Klient</find>
+      <find>car</find>
+      <find>při</find>
+      <find>getnewform</find>
+      <find>přidat</find>
+      <find>_handleCancelClick</find>
+      <find>_handleShowFormClick</find>
+      <find>__getPanelHeader</find>
+      <find>clientL</find>
+      <find>create</find>
+      <find>pane</find>
+      <find>reload</find>
+      <find>filtr</find>
+      <find>tra</find>
+      <find>filt</find>
+      <find>4</find>
+      <find>andleLinkClick</find>
+      <find>import React from \&quot;react\&quot;\;\nimport \* as UU5 from \&quot;uu5g04\&quot;\;\nimport Cfg from \&quot;\.\.\/core\/_config\.js\&quot;\;\n\nimport Calls from \&quot;calls\&quot;\n\nexport default React\.createClass\(\{\n\n  \/\/\@\@viewOn\:mixins\n  mixins\:\[\n    UU5\.Common\.BaseMixin\,\n    UU5\.Common\.ElementaryMixin\,\n    UU5\.Common\.RouteMixin\,\n    UU5\.Common\.LoadMixin\n  \]\,\n  \/\/\@\@viewOff\:mixins\n\n  \/\/\@\@viewOn\:statics\n  statics\:\{\n    tagName\:Cfg\.APP \+ \&quot;\.TractorDetail\&quot;\,\n    classNames\:\{\n      main\:Cfg\.CSS \+ \&quot;\-tractor\-detail\&quot;\n    \}\,\n    calls\:\{\n      onLoad\:\&quot;findCars\&quot;\,\n\n    \}\n  \}\,\n\n    componentWillMount\(\)\{\n        this\.setCalls\(Calls\)\n    \}\,\n\n\n    _handleFilterClick\(\)\{\n        this\.setState\(\{\n            loadFeedback\:\&quot;loading\&quot;\n        \}\, \(\) \=\&gt;\{\n            this\.getCall\(\&quot;find\&quot;\)\(\{\n                data\:this\._filterForm\.getValues\(\)\,\n                done\:\(data\) \=\&gt;\{\n                    this\.setState\(\{\n                        dtoOut\:data\,\n                        loadFeedback\:\&quot;ready\&quot;\,\n                        filtered\:true\n                    \}\)\n                \}\,\n                fail\:\(response\) \=\&gt; console\.error\(response\)\n            \}\)\n        \}\)\n    \}\,\n\n\n\n\n\n    _getLoadDetail\(\)\{\n\n        return \(\n            \&lt;UU5\.Bricks\.Table striped\&gt;\n              \&lt;UU5\.Bricks\.Table\.THead\&gt;\n                \&lt;UU5\.Bricks\.Table\.Tr\&gt;\n                    \&lt;UU5\.Bricks\.Table\.Th\&gt;type\&lt;\/UU5\.Bricks\.Table\.Th\&gt;\n                    \&lt;UU5\.Bricks\.Table\.Th\&gt;vin\&lt;\/UU5\.Bricks\.Table\.Th\&gt;\n                    \&lt;UU5\.Bricks\.Table\.Th\&gt;datum pořízení\&lt;\/UU5\.Bricks\.Table\.Th\&gt;\n                    \&lt;UU5\.Bricks\.Table\.Th\&gt;state\&lt;\/UU5\.Bricks\.Table\.Th\&gt;\n                \&lt;\/UU5\.Bricks\.Table\.Tr\&gt;\n              \&lt;\/UU5\.Bricks\.Table\.THead\&gt;\n              \&lt;UU5\.Bricks\.Table\.TBody\&gt;\n            \&lt;UU5\.Bricks\.Table\.Td\&gt;aa\&lt;\/UU5\.Bricks\.Table\.Td\&gt;\n                  \&lt;UU5\.Bricks\.Table\.Td\&gt;\{this\.props\.car\.vin\}\&lt;\/UU5\.Bricks\.Table\.Td\&gt;\n                  \&lt;UU5\.Bricks\.Table\.Td\&gt;\n                      \&lt;UU5\.Bricks\.DateTime format\=\&quot;dd\.mm\.Y\&quot; value\=\{new Date\(this\.props\.car\.dateOfAcquisition\)  \} \/\&gt;\&lt;\/UU5\.Bricks\.Table\.Td\&gt;\n                  \&lt;UU5\.Bricks\.Table\.Td\&gt;\{this\.props\.car\.carState\}\&lt;\/UU5\.Bricks\.Table\.Td\&gt;\n\n              \&lt;\/UU5\.Bricks\.Table\.TBody\&gt;\n            \&lt;\/UU5\.Bricks\.Table\&gt;\n        \)\n    \}\,\n    \/\/\@\@viewOff\:componentSpecificHelpers\n\n    \/\/\@\@viewOn\:render\n    render\(\)\{\n        return \(\n            \&lt;UU5\.Bricks\.Div\&gt;\n              \&lt;UU5\.Bricks\.Header level\=\{2\}\&gt;Detail vozidla\&lt;\/UU5\.Bricks\.Header\&gt;\n              \&lt;UU5\.Bricks\.Panel header\=\&quot;Detail\&quot; alwaysExpanded\=\{true\} disableHeaderClick\=\{true\}\&gt;\n                  \{this\._getLoadDetail\(this\.props\.car\)\}\n                  \{this\.props\.car\.vin\}\n                \&lt;\/UU5\.Bricks\.Panel\&gt;\n            \&lt;\/UU5\.Bricks\.Div\&gt;\n        \)\;\n    \}\n    \/\/\@\@viewOff\:render\n\}\)\;\n</find>
+      <find>bez</find>
+      <find>_handleFilterFormReference</find>
+      <find>filter</find>
+      <find>_handleLoadedTractors</find>
+      <find>_handleNewFormReference</find>
+      <find>get</find>
+      <find>onLoadData</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/vuc/vehicle-detail.js" />
+        <option value="$PROJECT_DIR$/src/vuc/client.js" />
+        <option value="$PROJECT_DIR$/src/core/header.js" />
+        <option value="$PROJECT_DIR$/src/core/page.js" />
+        <option value="$PROJECT_DIR$/src/vuc/for-rent-list.js" />
+        <option value="$PROJECT_DIR$/src/vuc/tractor-list.js" />
+        <option value="$PROJECT_DIR$/src/vuc/stk-detail.js" />
+        <option value="$PROJECT_DIR$/src/vuc/order.js" />
+        <option value="$PROJECT_DIR$/src/calls.js" />
+        <option value="$PROJECT_DIR$/src/vuc/list-stk.js" />
+        <option value="$PROJECT_DIR$/src/vuc/tractor-detail.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1400" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="uu5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uu5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uu5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uu5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uu5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uu5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uu5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uu5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="vuc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/zaloha/uu_library01_main-client" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\User\Documents\wokshop\htch_work\uu5\node_modules\eslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\wokshop\htch_work\uu5\src\vuc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32cc75e2-1a93-423b-b324-4949021f4503" name="Default" comment="" />
+      <created>1504251977295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504251977295</updated>
+      <workItem from="1504251979917" duration="22434000" />
+      <workItem from="1504337034283" duration="8539000" />
+      <workItem from="1504352416849" duration="3402000" />
+      <workItem from="1504422863766" duration="8040000" />
+      <workItem from="1504434610005" duration="2501000" />
+      <workItem from="1504437128725" duration="4328000" />
+      <workItem from="1504441474428" duration="783000" />
+      <workItem from="1504442273791" duration="65000" />
+      <workItem from="1504442363096" duration="5714000" />
+      <workItem from="1504467710746" duration="23758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="79564000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17239584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/vuc/tractor-list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/tractor-detail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1325">
+          <caret line="64" column="29" lean-forward="false" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/tractor-list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4450">
+          <caret line="182" column="10" lean-forward="false" selection-start-line="182" selection-start-column="10" selection-end-line="182" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/stk-detail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2050">
+          <caret line="86" column="3" lean-forward="true" selection-start-line="86" selection-start-column="3" selection-end-line="86" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1375">
+          <caret line="59" column="10" lean-forward="false" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/calls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="29" column="10" lean-forward="false" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="10" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2000">
+          <caret line="80" column="1" lean-forward="false" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/tractor-list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4475">
+          <caret line="183" column="96" lean-forward="false" selection-start-line="183" selection-start-column="9" selection-end-line="183" selection-end-column="96" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/stk-detail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="48" column="37" lean-forward="false" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/calls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="40" column="49" lean-forward="false" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2000">
+          <caret line="80" column="1" lean-forward="false" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/tractor-list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4475">
+          <caret line="183" column="96" lean-forward="true" selection-start-line="183" selection-start-column="9" selection-end-line="183" selection-end-column="96" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/calls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="40" column="49" lean-forward="false" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/stk-detail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="48" column="37" lean-forward="false" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="60" column="44" lean-forward="false" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/calls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="39" column="5" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uu5-environment.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/about.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/_config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/tractor-list.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/client-add.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/vehicle-detail.js" />
+    <entry file="file://$PROJECT_DIR$/src/vuc/stk-detail.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/tractor-detail.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/for-rent-list.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/order.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/stk-detail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="732">
+          <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/for-rent-list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="117" column="3" lean-forward="true" selection-start-line="117" selection-start-column="3" selection-end-line="123" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/about.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/calls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="52" column="23" lean-forward="false" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="60" column="35" lean-forward="false" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/order.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="76" column="58" lean-forward="false" selection-start-line="76" selection-start-column="58" selection-end-line="76" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="68" column="6" lean-forward="false" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/tractor-list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4419">
+          <caret line="193" column="2" lean-forward="false" selection-start-line="193" selection-start-column="2" selection-end-line="193" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/list-stk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="82" column="94" lean-forward="false" selection-start-line="82" selection-start-column="94" selection-end-line="82" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuc/tractor-detail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="63" column="85" lean-forward="false" selection-start-line="63" selection-start-column="85" selection-end-line="63" selection-end-column="85" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
